@@ -1,4 +1,4 @@
-# Saas Template
+# Sass Template
 > using 
 > * SASS 
 > * CSS3 
